@@ -1,0 +1,13 @@
+varibles are needed primarily to remember something or hold something 
+(a box that holds data)
+
+variables dont only hold data they also can vary depending on what you tell
+it to hold
+
+you assign things to variables in an assignment statement
+
+= sign does not mean equals (it is an assignment) it would be ==
+
+data types - integer, float, character, string, bolean, and array
+
+dont change caps in variables because program will not recognize

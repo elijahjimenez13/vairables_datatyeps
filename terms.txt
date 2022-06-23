@@ -1,0 +1,49 @@
+1. Variable: 
+Varibles are needed primarily to remember something or hold something 
+(a box that holds data).
+
+2. Assignment:
+Assignments are used to variables to give it value.
+
+3. Statement:
+Assignment statements assigns a virable with a value.
+
+4. Expression:
+Expressions evlaluates to a value.
+
+5. Integer:
+A whole number value, like 1, 999, 0, or -25.
+
+6. Float:
+A float is a floating-point number, which is a real number like 98.6, 0.001,
+or -666.61
+
+7. String:
+A string is a sequence of characters, like "Hello" or "the forcast for today."
+
+8. Literal:
+A variable that you cant change the value.
+
+9. Boolean:
+A Boolean refers to a quantity that has only two possible values, true or 
+false.
+
+10. Identifier:
+A name created by a programmer for an item like a variable or function is
+called an identifier.
+
+11. Camel Case:
+Lower camel case abuts mulitple words, capitalizing each word except the
+first, as in numApples or peopleOnBus.
+
+12. Reserved Words:
+are words that are already in a program and that it will recognize
+(dont name variables reserved words (if, variables, numbers, etc)).
+
+13. Naming:
+Naming conventions is a set of style guidlines defined by a company, team,
+teacher, etc., for naming variables
+
+14. Convention:
+Conventions are used for distinguishing words in an identifier, (camel case,
+underscore seperated, etc).
